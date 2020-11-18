@@ -1,0 +1,5 @@
+#生产开发环境配置文件
+server:
+  port: 8092
+  servlet:
+    context-path: /productor

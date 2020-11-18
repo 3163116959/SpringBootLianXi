@@ -1,0 +1,5 @@
+#测试环境的配置文件
+server:
+  port: 8089
+  servlet:
+    context-path: /test
